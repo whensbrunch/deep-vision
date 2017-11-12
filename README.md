@@ -21,3 +21,7 @@ data.save()
 
 This outputs the images to your IMG_DIR (specified in `config.py`) and saves
 a list of image names to labels as LABEL_FILE (also specified in `config.py`).
+
+## Usage
+
+Run `main.py`
